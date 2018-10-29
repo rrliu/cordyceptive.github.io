@@ -3,7 +3,7 @@
     {% assign url = page.url | remove: 'index.html' %}
     {% for link in site.sidebar %}
       <a class="menu-item {% if url == link.url %}active{% endif %}"
-        role="sidebaritem" href="{{ link.url | prepend: site.url }}" title="{{ link.title }}">
+        role="sidebaritem" href="{{ link.url | prepend: site.baseurl }}" title="{{ link.title }}">
         {{ link.text }} <div class="pull-right">></div>
       </a>
     {% endfor %}
