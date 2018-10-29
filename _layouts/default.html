@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/assets/css/hack.css">
+    <link rel="stylesheet" href="/assets/css/dark-grey.css">
+    <link rel="favicon" type="image/x-icon" href="/favicon.ico?">
+    <title>{{ page.title }}</title>
+  </head>
+
+  <body class="hack dark-grey">
+    <div class="container">
+      <div class="grid">
+        <aside class="cell -3of12" role="sidebar">
+          {% include sidebar.html %}
+        </aside>
+
+        <main class="cell -9of12">
+          {{ content }}
+        </main>
+      </div>
+    </div>
+  </body>
+</html>

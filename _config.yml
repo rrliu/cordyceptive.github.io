@@ -1,0 +1,17 @@
+# Site settings
+title: Robert Liu's Home Page
+description: >
+  Robert Liu's public site and thoughts.
+baseurl: /
+url: cordyceptive.github.io
+
+# Sidebar contents
+sidebar:
+  - text: Home
+    url: /
+  - text: About
+    url: /about.html
+  - text: Notes
+    url: /notes.html
+  - text: Projects
+    url: /projects.html
