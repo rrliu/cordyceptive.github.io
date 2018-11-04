@@ -724,3 +724,14 @@ select.form-control{
         width:100%
     }
 }
+
+.project-cards{
+    flex-wrap: wrap;
+}
+
+.project-image{
+    display: block;
+    max-width: 50%;
+    height: auto;
+    margin: 0 auto;
+}

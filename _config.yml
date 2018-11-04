@@ -15,3 +15,10 @@ sidebar:
     url: /notes.html
   - text: Projects
     url: /projects.html
+
+# Projects
+projects:
+  - name: Bepsi
+    description: it's good to drink
+    link: https://www.pepsi.com/en-us/
+    image: https://pics.me.me/pepsi-bepis-dankmemes-good-old-bepsi-10896779.png

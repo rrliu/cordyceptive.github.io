@@ -1,0 +1,30 @@
+---
+layout: default
+title: Projects
+---
+<section>
+  <h1>Projects</h1>
+
+  <div class="grid project-cards">
+    {% for project in site.projects %}
+    <div class="card">
+      <header class="card-header">{{ project.name }}</header>
+      <div class="card-content">
+        <div class="inner">
+          {% if project.image %}
+          <img src="{{ project.image }}" class="project-image"
+          alt="{{ project.name }}" title="{{ project.name }}" />
+          {% endif %}
+
+          <p>{{ project.description }}</p>
+          <p>
+            <a href="{{ project.link }}" target="_blank">
+            {{ project.name }}
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
