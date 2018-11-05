@@ -22,3 +22,7 @@ projects:
     description: Multivariate Network Visualizations for Mountaineering History
     link: http://publications.americanalpineclub.org/
     image: https://i.gyazo.com/f503d630fa062caafbcec9fa55dcc179.png
+  - name: CLI Hangman
+    description: Quick Hangman game for your terminal
+    link: https://github.com/cordyceptive/cli-hangman
+    image: https://i.gyazo.com/1b6945593fbf4226df2041a84b16d232.png
