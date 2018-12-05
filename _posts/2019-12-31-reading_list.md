@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Books I Read In 2018
+title: Reading list
 ---
 # Reading list
 
