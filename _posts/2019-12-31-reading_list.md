@@ -57,3 +57,4 @@ title: Reading list
 - `The Book of Why`, Judea Pearl
 - `The Imposter's Handbook`, Rob Conery
 - `The Architecture of Open-Source Applications`, ed. Amy Brown and Greg Wilson
+- `Managing Humans`, Michael Lopp
