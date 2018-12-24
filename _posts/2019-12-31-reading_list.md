@@ -53,7 +53,6 @@ title: Reading list
 ## Computer Science / Engineering
 - `Structure and Interpretation of Computer Programs`
 - `The Art of Doing Science and Engineering`, Richard Hamming
-- `You and Your Research`, Richard Hamming
 - `The Book of Why`, Judea Pearl
 - `The Imposter's Handbook`, Rob Conery
 - `The Architecture of Open-Source Applications`, ed. Amy Brown and Greg Wilson
