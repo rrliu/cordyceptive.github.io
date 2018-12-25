@@ -33,10 +33,10 @@ title: Reading list
 - `Callings`, Dave Isay
 - `Designing an Internet`, Dave Clark
 - `Regional Advantage`, Annalee Saxenian
-- `Men, Machines, and Modern Times`, Elting Morrison
 - `Army of None`, Paul Scharre
 - `Zero to One`, Peter Thiel
 - `The Dream Machine`, M. Mitchell Waldrop
+- `Barbarians at the Gate: The Fall of RJR Nabisco`, Burrough & Helyar
 
 ## Philosophy
 - `A Mathematician’s Apology`, G.H. Hardy
@@ -49,6 +49,7 @@ title: Reading list
 - `Ethics for Robots: How to Design A Moral Algorithm`, Derek Leben
 - `The Human Use of Human Beings: Cybernetics and Society`, Norbert Wiener
 - `Stubborn Attachments`, Tyler Cowen
+- `The Crowd: A Study of the Popular Mind`, Gustave Le Bon
 
 ## Computer Science / Engineering
 - `Structure and Interpretation of Computer Programs`
@@ -57,3 +58,4 @@ title: Reading list
 - `The Imposter's Handbook`, Rob Conery
 - `The Architecture of Open-Source Applications`, ed. Amy Brown and Greg Wilson
 - `Managing Humans`, Michael Lopp
+- `Designing Data-Intensive Applications`, Martin Kleppmann
