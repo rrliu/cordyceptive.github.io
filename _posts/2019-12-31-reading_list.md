@@ -37,6 +37,7 @@ title: Reading list
 - `Zero to One`, Peter Thiel
 - `The Dream Machine`, M. Mitchell Waldrop
 - `Barbarians at the Gate: The Fall of RJR Nabisco`, Burrough & Helyar
+- `Histories of Computing`, Michael Mahoney
 
 ## Philosophy
 - `A Mathematician’s Apology`, G.H. Hardy
