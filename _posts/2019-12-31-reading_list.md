@@ -6,12 +6,10 @@ title: Reading list
 
 ## Fiction
 - `The Odyssey`, tr. Emily Wilson
-- `Solaris & The Cyberiad`, Stanislaw Lem
 - `Earthsea`, Ursula K. LeGuin
 - `CivilWarLand`, George Saunders
 - Culture novels, Iain Banks
 - `The Quiet American`, Graham Greene
-- `Warhorses`, Yusef Komyunaaka
 - `Foundryside`, Robert Jackson Bennett
 - `Bring Out the Dog`, Will Mackin
 
@@ -25,19 +23,16 @@ title: Reading list
 - `The Fighters`, C.J. Chivers
 - `Autumn in the Heavenly Kingdom`, Stephen Platt
 - `The Eye of War`, Antoine Bousquet
-- `A Mind At Play`, Jimmy Soni
-- `All About Love`, bell hooks
-- `The Supermen`, Charles Murray (not that one)
-- `The Guerrilla Factory`, Tony Schwalm
+- `The Guerrilla Factory: The Making of Special Forces Officers`, Tony Schwalm
 - `Rise of the Machines`, Thomas Rid
 - `Callings`, Dave Isay
-- `Designing an Internet`, Dave Clark
 - `Regional Advantage`, Annalee Saxenian
 - `Army of None`, Paul Scharre
-- `Zero to One`, Peter Thiel
-- `The Dream Machine`, M. Mitchell Waldrop
 - `Barbarians at the Gate: The Fall of RJR Nabisco`, Burrough & Helyar
-- `Histories of Computing`, Michael Mahoney
+
+## Biography
+- `Deng Xiaoping and the Transformation of China`, Ezra Vogel
+- `A Mind At Play: How Claude Shannon Invented the Information Age`, Jimmy Soni
 
 ## Philosophy
 - `A Mathematician’s Apology`, G.H. Hardy
@@ -51,12 +46,17 @@ title: Reading list
 - `The Human Use of Human Beings: Cybernetics and Society`, Norbert Wiener
 - `Stubborn Attachments`, Tyler Cowen
 - `The Crowd: A Study of the Popular Mind`, Gustave Le Bon
+- `All About Love`, bell hooks
 
-## Computer Science / Engineering
-- `Structure and Interpretation of Computer Programs`
+## Technical
 - `The Art of Doing Science and Engineering`, Richard Hamming
 - `The Book of Why`, Judea Pearl
 - `The Imposter's Handbook`, Rob Conery
 - `The Architecture of Open-Source Applications`, ed. Amy Brown and Greg Wilson
 - `Managing Humans`, Michael Lopp
 - `Designing Data-Intensive Applications`, Martin Kleppmann
+- `Designing an Internet`, Dave Clark
+- `The Supermen: The Story of Seymour Cray and the Technical Wizards Behind the Supercomputer`, Charles Murray
+- `Zero to One`, Peter Thiel
+- `The Dream Machine`, M. Mitchell Waldrop
+- `Histories of Computing`, Michael Mahoney
