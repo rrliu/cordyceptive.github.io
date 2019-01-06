@@ -29,6 +29,11 @@ title: Reading list
 - `Regional Advantage`, Annalee Saxenian
 - `Army of None`, Paul Scharre
 - `Barbarians at the Gate: The Fall of RJR Nabisco`, Burrough & Helyar
+- `Designing an Internet`, Dave Clark
+- `The Supermen: The Story of Seymour Cray and the Technical Wizards Behind the Supercomputer`, Charles Murray
+- `Zero to One`, Peter Thiel
+- `The Dream Machine`, M. Mitchell Waldrop
+- `Histories of Computing`, Michael Mahoney
 
 ## Biography
 - `Deng Xiaoping and the Transformation of China`, Ezra Vogel
@@ -55,8 +60,5 @@ title: Reading list
 - `The Architecture of Open-Source Applications`, ed. Amy Brown and Greg Wilson
 - `Managing Humans`, Michael Lopp
 - `Designing Data-Intensive Applications`, Martin Kleppmann
-- `Designing an Internet`, Dave Clark
-- `The Supermen: The Story of Seymour Cray and the Technical Wizards Behind the Supercomputer`, Charles Murray
-- `Zero to One`, Peter Thiel
-- `The Dream Machine`, M. Mitchell Waldrop
-- `Histories of Computing`, Michael Mahoney
+- `The Humane Interface: New Directions for Designing Interactive Systems`, Jef Raskin
+- `The Design of Everyday Things`, Donald Norman
