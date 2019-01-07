@@ -40,7 +40,6 @@ title: Reading list
 - `A Mind At Play: How Claude Shannon Invented the Information Age`, Jimmy Soni
 
 ## Philosophy
-- `A Mathematician’s Apology`, G.H. Hardy
 - `The Black Swan`, Nassim Nicholas Taleb
 - `What I Believe`, Bertrand Russell
 - `Anarchy, State, and Utopia`, Robert Nozick
