@@ -36,7 +36,6 @@ title: Reading list
 - `Histories of Computing`, Michael Mahoney
 
 ## Biography
-- `Deng Xiaoping and the Transformation of China`, Ezra Vogel
 - `A Mind At Play: How Claude Shannon Invented the Information Age`, Jimmy Soni
 
 ## Philosophy
@@ -54,7 +53,6 @@ title: Reading list
 
 ## Technical
 - `The Art of Doing Science and Engineering`, Richard Hamming
-- `The Book of Why`, Judea Pearl
 - `The Imposter's Handbook`, Rob Conery
 - `The Architecture of Open-Source Applications`, ed. Amy Brown and Greg Wilson
 - `Managing Humans`, Michael Lopp
