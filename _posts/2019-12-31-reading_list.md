@@ -59,3 +59,5 @@ title: Reading list
 - `Designing Data-Intensive Applications`, Martin Kleppmann
 - `The Humane Interface: New Directions for Designing Interactive Systems`, Jef Raskin
 - `The Design of Everyday Things`, Donald Norman
+- `The Art of Unix Programming`, Eric S. Raymond
+- `The Craft of Text Editing`, Craig Finseth
