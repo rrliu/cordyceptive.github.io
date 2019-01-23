@@ -50,6 +50,7 @@ title: Reading list
 - `Stubborn Attachments`, Tyler Cowen
 - `The Crowd: A Study of the Popular Mind`, Gustave Le Bon
 - `All About Love`, bell hooks
+- `The Second Self: Computers and the Human Spirit`, Sherry Turkle
 
 ## Technical
 - `The Art of Doing Science and Engineering`, Richard Hamming
