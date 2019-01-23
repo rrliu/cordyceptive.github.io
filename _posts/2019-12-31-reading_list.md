@@ -51,6 +51,7 @@ title: Reading list
 - `The Crowd: A Study of the Popular Mind`, Gustave Le Bon
 - `All About Love`, bell hooks
 - `The Second Self: Computers and the Human Spirit`, Sherry Turkle
+- `The Social Construction of Technological Systems`
 
 ## Technical
 - `The Art of Doing Science and Engineering`, Richard Hamming
