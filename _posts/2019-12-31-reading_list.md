@@ -45,7 +45,6 @@ title: Reading list
 - `Simulacra and Simulation`, Baudrillard
 - `Letters from a Stoic`, Seneca
 - `Media is the Message`, Marshall McLuhan
-- `Ethics for Robots: How to Design A Moral Algorithm`, Derek Leben
 - `The Human Use of Human Beings: Cybernetics and Society`, Norbert Wiener
 - `Stubborn Attachments`, Tyler Cowen
 - `The Crowd: A Study of the Popular Mind`, Gustave Le Bon
