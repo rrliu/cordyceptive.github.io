@@ -21,7 +21,6 @@ title: Reading list
 - `Dawn of the New Everything`, Jaron Lanier
 - `Hiking with Nietzsche`, John Kaag
 - `The Fighters`, C.J. Chivers
-- `Autumn in the Heavenly Kingdom`, Stephen Platt
 - `The Eye of War`, Antoine Bousquet
 - `The Guerrilla Factory: The Making of Special Forces Officers`, Tony Schwalm
 - `Rise of the Machines`, Thomas Rid
